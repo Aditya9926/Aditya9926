@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7A41D&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;DSA+%7C+C+%7C+Web+Dev+%7C+Python+%7C+Pandas;Building+with+purpose+and+passion..." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Aditya9926/Aditya9926/assets/11243138/fd7dcdb4-5e8e-4960-9e8e-f12cfe2e514a" height="230" alt="banner" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 # 💫 About Me:
 🔭 I’m currently working on Data Structures & Algorithms, C Programming, and Web Development.<br>
@@ -25,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
 </p>
 
@@ -75,14 +76,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aditya9926&icon=0&color=0" alt="profile visits" />
-</p>
-
-<!-- Animated SVG divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/svg-borders/main/svg/animated-border-bottom.svg" width="80%" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
