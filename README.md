@@ -10,7 +10,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-# 💫 About Me:
+# <img src="https://em-content.zobj.net/source/apple/419/man-raising-hand-medium-skin-tone_1f64b-1f3fd-200d-2642-fe0f.png" width="38" />  About Me:
 🔭 I’m currently working on Data Structures & Algorithms, C Programming, and Web Development.<br>
 🌱 I’m deepening my skills in Machine Learning, Pandas, and Backend Development.<br>
 👯 I’m open to collaborating on Open Source, tech communities, and impactful projects.<br>
@@ -41,7 +41,7 @@
   <a href="https://facebook.com/Aditya Sahu" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/Aditya Sahu" target="_blank">
+  <a href="www.linkedin.com/in/aditya-sahu-205ba9200" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adityasahu5189@gmail.com" target="_blank">
