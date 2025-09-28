@@ -40,10 +40,7 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://facebook.com/Aditya Sahu" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-sahu-205ba9200/" target="_blank">
+ <a href="https://www.linkedin.com/in/aditya-sahu-205ba9200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adityasahu5189@gmail.com" target="_blank">
