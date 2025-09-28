@@ -1,7 +1,7 @@
 <!-- Professional & Dynamic GitHub Profile README for Aditya9926 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7A41D&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;DSA+%7C+C+%7C+Web+Dev+%7C+Python+%7C+Pandas;Building+with+purpose+and+passion..." alt="Typing SVG" />
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&duration=2000&pause=1500&color=2B5376&background=3E72FF00&width=435&lines=Wellcome+To+My+GitHub+!;DSA+%7C+C%2B%2B+%7C+PYTHON+%7C+ML++%7C+WEB+DEV;Building+with+purpose+and+passion..." alt="Typing SVG" /></a> 
 </p>
 
 <picture>
