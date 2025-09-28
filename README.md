@@ -11,12 +11,14 @@
 </picture>
 
 # <img src="https://em-content.zobj.net/source/apple/419/man-raising-hand-medium-skin-tone_1f64b-1f3fd-200d-2642-fe0f.png" width="38" />  About Me:
-🔭 I’m currently working on Data Structures & Algorithms, C Programming, and Web Development.<br>
-🌱 I’m deepening my skills in Machine Learning, Pandas, and Backend Development.<br>
-👯 I’m open to collaborating on Open Source, tech communities, and impactful projects.<br>
-💬 Ask me about Python, C, DSA, or Web Tech.<br>
-📫 Reach me at: aditya9926@gmail.com<br>
+<h4>
+🔭 I’m currently working on Data Structures & Algorithms, C Programming, and Web Development.<br><br>
+🌱 I’m deepening my skills in Machine Learning, Pandas, and Backend Development.<br><br>
+👯 I’m open to collaborating on Open Source, tech communities, and impactful projects.<br><br>
+💬 Ask me about Python, C, DSA, or Web Tech.<br><br>
+📫 Reach me at: aditya9926@gmail.com<br><br>
 🏆 I value continuous learning, quality code, and professional growth.
+</h4>
 
 ---
 
