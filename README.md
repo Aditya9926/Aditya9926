@@ -16,7 +16,7 @@
 🌱 I’m deepening my skills in Machine Learning, Pandas, and Backend Development.<br><br>
 👯 I’m open to collaborating on Open Source, tech communities, and impactful projects.<br><br>
 💬 Ask me about Python, C, DSA, or Web Tech.<br><br>
-📫 Reach me at: aditya9926@gmail.com<br><br>
+📫 Reach me at: adityasahu5189@gmail.com<br><br>
 🏆 I value continuous learning, quality code, and professional growth.
 </h4>
 
