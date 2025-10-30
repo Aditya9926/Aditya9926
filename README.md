@@ -10,7 +10,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-# <img src="https://em-content.zobj.net/source/apple/419/man-raising-hand-medium-skin-tone_1f64b-1f3fd-200d-2642-fe0f.png" width="38" />  About Me:
+#🙋🏽‍♂️ About Me:
 <h4>
 🔭 I’m currently working on Data Structures & Algorithms, C Programming, and Web Development.<br><br>
 🌱 I’m deepening my skills in Machine Learning, Pandas, and Backend Development.<br><br>
