@@ -10,7 +10,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-#🙋🏽‍♂️ About Me:
+## :raising_hand: About Me:
 <h4>
 🔭 I’m currently working on Data Structures & Algorithms, C Programming, and Web Development.<br><br>
 🌱 I’m deepening my skills in Machine Learning, Pandas, and Backend Development.<br><br>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🌐 Socials:
+## :earth_asia: Socials :
 <p align="center">
   <!-- LeetCode -->
   <a href="https://leetcode.com/adityasahu9926/" target="_blank">
@@ -72,7 +72,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# :computer: Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 &nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -87,7 +87,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya9926&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false" height="180" />
