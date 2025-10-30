@@ -87,7 +87,7 @@
 
 ---
 
-#  GitHub Stats:
+# 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya9926&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false" height="180" />
