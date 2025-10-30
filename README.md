@@ -90,15 +90,15 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya9926&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aditya9926&theme=ambient_gradient&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9926&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya9926&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aditya9926&theme=noctis_minimus&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9926&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="250" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya9926&theme=rogue&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya9926&theme=noctis-minimus&hide_border=true&area=true" width="90%" />
 </p>
 
 ---
