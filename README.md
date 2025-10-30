@@ -40,16 +40,31 @@
 
 ## 🌐 Socials:
 <p align="center">
- <a href="https://leetcode.com/adityasahu9926/">
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/adityasahu9926/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-adityasahu9926-orange?logo=leetcode&style=for-the-badge" alt="LeetCode Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aditya-sahu9926/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Email -->
+  <a href="mailto:adityasahu5189@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" alt="Email Badge"/>
+  </a>
+  <br>
+<p align ="left">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/adityasahu9926/">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasahu9926&theme=dark" alt="LeetCode Badges"/>
   </a>
- <a href="https://www.linkedin.com/in/aditya-sahu-205ba9200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adityasahu5189@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
 </p>
+
+</p>
+
+---
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
