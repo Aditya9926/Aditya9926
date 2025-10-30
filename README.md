@@ -98,7 +98,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya9926&theme=noctis-minimus&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya9926&theme=noctis-minimus&hide_border=false&area=true" width="90%" />
 </p>
 
 ---
