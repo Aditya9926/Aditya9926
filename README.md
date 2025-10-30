@@ -40,6 +40,9 @@
 
 ## 🌐 Socials:
 <p align="center">
+ <a href="https://leetcode.com/adityasahu9926/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=adityasahu9926&theme=dark" alt="LeetCode Badges"/>
+  </a>
  <a href="https://www.linkedin.com/in/aditya-sahu-205ba9200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
