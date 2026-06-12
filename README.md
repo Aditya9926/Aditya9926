@@ -1,14 +1,16 @@
 <!-- Professional & Dynamic GitHub Profile README for Aditya9926 -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&duration=2000&pause=1500&color=2B5376&background=3E72FF00&width=435&lines=Welcome+To+My+GitHub!;DSA+%7C+C%2B%2B+%7C+PYTHON+%7C+ML++%7C+WEB+DEV;Building+with+purpose+and+passion..." width="600" height="600" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&duration=2000&pause=1500&center=true&vCenter=true&color=2B5376&background=3E72FF00&width=435&lines=Welcome+To+My+GitHub!;DSA+%7C+C%2B%2B+%7C+PYTHON+%7C+ML++%7C+WEB+DEV;Building+with+purpose+and+passion..." width="1000" height="90" alt="Typing SVG" /></a> 
 </p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
 
 ## :raising_hand: About Me:
 <h4>
@@ -91,7 +93,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya9926&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aditya9926&theme=noctis_minimus&hide_border=false" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Aditya9926&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)](https://git.io/streak-stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9926&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="250" />
 </p>
 
